@@ -1,6 +1,6 @@
 README.md
 
-This repo contains personal scripts underdevelopment and testing.
+This repo contains personal scripts under development and testing.
 
 ** Script Catalog **
 filecompiler.py - Recursively searches through nested folders for files with a user-defined 
